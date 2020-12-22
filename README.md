@@ -10,8 +10,8 @@ Steps for installing docker and setting up drives
 2. Add permission to user
 > sudo usermod -aG docker pi
 3. Install dependencies [do one by one]
--> sudo apt-get install -y libffi-dev libssl-dev
-->sudo apt-get install -y python3 python3-pip
-->sudo apt-get remove python-configparser
+- > sudo apt-get install -y libffi-dev libssl-dev
+- >sudo apt-get install -y python3 python3-pip
+- >sudo apt-get remove python-configparser
 4. Install Docker-compose
 > sudo pip3 -v install docker-compose
