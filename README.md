@@ -2,4 +2,4 @@
 
 Steps for installing docker and setting up drives
 
-#PART A: Installing OS
+# PART A: Installing OS
