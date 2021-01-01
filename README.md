@@ -29,7 +29,7 @@ This enables external harddisk to be read as soon as system starts.
 2. Check the id of the harddisk [take  note of UUID]
 > sudo blkid
 3. Open FSTAB to add the harddrive UUID to autostart [should look like picture once you run]
-> sudo nano etc/fstab
+> sudo nano /etc/fstab
 4. Add harddisk using the following command [change your UUID and /yourpathhere]
 > UUID="your UUID here" /yourpathhere auto defaults,nofail 0 0
 5. Final result should look like this.
