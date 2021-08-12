@@ -1,4 +1,4 @@
-# rpi-installation
+# Raspberry Pi OS and Docker Installation
 
 Steps for installing docker and setting up drives
 
