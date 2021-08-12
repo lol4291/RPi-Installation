@@ -5,8 +5,8 @@ Steps for installing docker and setting up drives
 # PART A: Installing OS
 
 # PART B: Installing Docker and Docker-Compose
-1. Install Docker or
-> curl -sSL https://get.docker.com | sh
+1. Install Docker or 
+> curl -sSL https://get.docker.com | sh 
 > 
 1.1
 Install Docker using the following two lines, one by one
